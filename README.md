@@ -1,4 +1,3 @@
-# Dataak
 # Text Data Pipeline with Kafka, Elasticsearch, and FastAPI
 
 ## Architecture
